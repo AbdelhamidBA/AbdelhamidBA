@@ -51,6 +51,26 @@ I hold an Engineering Degree in Software Engineering (Excellent), with hands-on 
 
 <p align="center"><a href="https://rewardini.ghostmoongames.com">rewardini.ghostmoongames.com</a></p>
 
+## More featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/guidini-cover.png" alt="Guidini: group tracking and safety app for tour guides" width="100%">
+      <h3>Guidini</h3>
+      <p>Group tracking and safety app for tour guides. The guide sees every traveler live on a shared map, gets an alert when someone strays, and talks to the whole group push-to-talk. One SOS button pings the traveler's location, calls the guide and alerts the group, and the last known location stays visible when a phone loses signal.</p>
+      <p><sub>React Native · TypeScript · Redux-Saga · Socket.IO · WebRTC · Firebase · NestJS · PostgreSQL</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/yasmineshop-cover.png" alt="YasmineShop: e-commerce store and admin back office" width="100%">
+      <h3>YasmineShop</h3>
+      <p>Live e-commerce store for a Tunisian retailer, with 400+ products and cash on delivery across Tunisia. A Next.js storefront (catalogue, search, cart, checkout, customer accounts, invoices) and an admin back office: sales dashboard, order workflow, stock alerts, promo codes and sub-admin roles.</p>
+      <p><sub>Next.js · React · TypeScript · Prisma · PostgreSQL · Auth.js · Tailwind CSS · Docker</sub></p>
+      <p><a href="https://yasmine-shop.com">yasmine-shop.com</a></p>
+    </td>
+  </tr>
+</table>
+
 ## Selected projects
 
 | | Project | Stack | What it does |
@@ -59,6 +79,7 @@ I hold an Engineering Degree in Software Engineering (Excellent), with hands-on 
 | <img src="assets/icons/switchini.png" width="48" alt="Switchini"> | **Switchini** | Next.js, React Native, NestJS, Prisma, PostgreSQL, Redis, Docker | Platform for exchanging and donating unused goods to help the community |
 | <img src="assets/icons/trustini.png" width="48" alt="Trustini"> | **Trustini** | Next.js, NestJS, PostgreSQL | Helps e-commerce merchants check customer reliability through real order history shared by the community |
 | <img src="assets/icons/guidini.png" width="48" alt="Guidini"> | **Guidini** | React Native, NestJS, PostgreSQL | Traveller tracking and communication app for travel agencies, tour guides and their groups |
+| <img src="assets/icons/yasmineshop.png" width="48" alt="YasmineShop"> | **[YasmineShop](https://yasmine-shop.com)** | Next.js, React, TypeScript, Prisma, PostgreSQL | Live e-commerce store and admin back office for a Tunisian retailer |
 | | **Wood Transfer Digitisation** (freelance) | React Native, Odoo | 10 complete mobile apps for an international wood company, digitising its wood-transfer paperwork |
 | | **RFID Student Attendance** (IoT) | Arduino, Angular, Node.js, MongoDB | Automatic student attendance tracking with RFID tags |
 
