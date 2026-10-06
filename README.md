@@ -69,6 +69,14 @@ I hold an Engineering Degree in Software Engineering (Excellent), with hands-on 
       <p><a href="https://yasmine-shop.com">yasmine-shop.com</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="assets/switchini-cover.png" alt="Switchini: local clothing swap and donation app" width="60%">
+      <h3>Switchini</h3>
+      <p>Local clothing swap and donation app. Users list an item in 5 guided steps, browse what is nearby on a feed or a map, propose a swap or ask for a donation, then agree on a meetup in the chat. Community events, family profiles with kids' sizes and in-app Pro subscriptions, in French, English and Arabic (right to left).</p>
+      <p><sub>React Native · TypeScript · Redux-Saga · Socket.IO · Firebase · In-app purchases · Next.js admin · NestJS · MongoDB</sub></p>
+    </td>
+  </tr>
 </table>
 
 ## Selected projects
@@ -76,7 +84,7 @@ I hold an Engineering Degree in Software Engineering (Excellent), with hands-on 
 | | Project | Stack | What it does |
 | :---: | --- | --- | --- |
 | <img src="assets/icons/rewardini.png" width="48" alt="Rewardini"> | **Rewardini** | React 19, TypeScript, TanStack Query, Tailwind CSS, React Native, NestJS, Prisma, PostgreSQL, Redis, Docker | Multi-tenant SaaS loyalty platform with QR/NFC digital stamp cards: merchant portal, admin dashboard, REST/WebSocket API and mobile app |
-| <img src="assets/icons/switchini.png" width="48" alt="Switchini"> | **Switchini** | Next.js, React Native, NestJS, Prisma, PostgreSQL, Redis, Docker | Platform for exchanging and donating unused goods to help the community |
+| <img src="assets/icons/switchini.png" width="48" alt="Switchini"> | **Switchini** | React Native, Next.js, NestJS, MongoDB, Socket.IO | Local clothing swap and donation app: listings, swaps, donations, chat with meetups, community events and in-app subscriptions |
 | <img src="assets/icons/trustini.png" width="48" alt="Trustini"> | **Trustini** | Next.js, NestJS, PostgreSQL | Helps e-commerce merchants check customer reliability through real order history shared by the community |
 | <img src="assets/icons/guidini.png" width="48" alt="Guidini"> | **Guidini** | React Native, NestJS, PostgreSQL | Traveller tracking and communication app for travel agencies, tour guides and their groups |
 | <img src="assets/icons/yasmineshop.png" width="48" alt="YasmineShop"> | **[YasmineShop](https://yasmine-shop.com)** | Next.js, React, TypeScript, Prisma, PostgreSQL | Live e-commerce store and admin back office for a Tunisian retailer |
